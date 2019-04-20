@@ -19,3 +19,5 @@ management:
       expose: "*"
 env:
   test
+env1:
+  test1
