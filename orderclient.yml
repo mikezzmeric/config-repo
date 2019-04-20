@@ -1,3 +1,5 @@
 common:
   config:
     zzm: haha
+server:
+  port: 9000
